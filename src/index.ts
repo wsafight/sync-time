@@ -20,7 +20,6 @@ const time = (): number => getCurrentTime() + diffMillisecond
 
 const date = (): Date => new Date(time())
 
-
 export {
   sync,
   time,
