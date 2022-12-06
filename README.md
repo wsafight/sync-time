@@ -1,6 +1,6 @@
 # sync-time
 
-Read this in other languages: [English]()
+Read this in other languages: [English](https://github.com/wsafight/sync-time/blob/main/README.EN.md)
 
 同步时间的工具库
 
